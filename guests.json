@@ -3,9 +3,9 @@
     "groom": "Вадим",
     "bride": "Ксения",
     "dateText": "22 августа 2026",
-    "time": "",
-    "venue": "",
-    "address": "",
+    "time": "16:00",
+    "venue": "Ресторан «Колчакъ»",
+    "address": "г. Омск, ул. Броз Тито, 2/1",
     "hashtag": "#СвадьбаВилли"
   },
   "guests": [
@@ -439,6 +439,166 @@
         "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flower-bouquet-wild-flowers-Sitia-Crete-Greece.jpg/1920px-Flower-bouquet-wild-flowers-Sitia-Crete-Greece.jpg",
         "accentImage": "",
         "accentEmoji": "🤍"
+      }
+    },
+    {
+      "id": "marina-viktoriya",
+      "name": "Марина и Виктория",
+      "salutation": "Дорогие",
+      "message": "Мы очень рады пригласить вас на наш праздник! Ваше присутствие сделает этот день ещё теплее и счастливее.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pink_climbing_rose_and_trellis_at_Boreham%2C_Essex%2C_England.jpg/960px-Pink_climbing_rose_and_trellis_at_Boreham%2C_Essex%2C_England.jpg",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#b4536a",
+        "backgroundColor": "#fdf2f4",
+        "fontFamily": "'Cormorant Garamond', serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%D0%91%D0%BE%D1%82%D1%81%D0%B0%D0%B4._%D0%9F%D0%B8%D0%BE%D0%BD%D1%8B_22.jpg/1920px-%D0%91%D0%BE%D1%82%D1%81%D0%B0%D0%B4._%D0%9F%D0%B8%D0%BE%D0%BD%D1%8B_22.jpg",
+        "accentImage": "",
+        "accentEmoji": "🌸"
+      }
+    },
+    {
+      "id": "andrey-natalya",
+      "name": "Андрей и Наталья",
+      "salutation": "Дорогие",
+      "message": "В нашей жизни наступает особенный день, и мы хотим разделить его с самыми близкими — с вами!",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Lavandula_angustifolia_-_lavender_-_Lavendel_-_01.jpg/960px-Lavandula_angustifolia_-_lavender_-_Lavendel_-_01.jpg",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#7c6bb0",
+        "backgroundColor": "#f5f3fb",
+        "fontFamily": "'Playfair Display', serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pivoine_Japanese_peony_Jdp.jpg/1920px-Pivoine_Japanese_peony_Jdp.jpg",
+        "accentImage": "",
+        "accentEmoji": "🦋"
+      }
+    },
+    {
+      "id": "irina-vyacheslav",
+      "name": "Ирина и Вячеслав",
+      "salutation": "Дорогие",
+      "message": "Будем счастливы видеть вас среди наших гостей в самый важный день нашей жизни!",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/D%C3%BClmen%2C_Brachliegendes_Feld_mit_Wildblumen_--_2021_--_9766.jpg/960px-D%C3%BClmen%2C_Brachliegendes_Feld_mit_Wildblumen_--_2021_--_9766.jpg",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#5e8b6a",
+        "backgroundColor": "#f1f7f2",
+        "fontFamily": "'Lora', serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Apple-tree_blossoms_2017_G3.jpg/1920px-Apple-tree_blossoms_2017_G3.jpg",
+        "accentImage": "",
+        "accentEmoji": "🌿"
+      }
+    },
+    {
+      "id": "anastasiya-aleksandr",
+      "name": "Анастасия и Александр",
+      "salutation": "Дорогие",
+      "message": "Этот день станет для нас началом новой истории, и мы будем рады написать её первую страницу вместе с вами.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sonnenblume_Helianthus_1.JPG/960px-Sonnenblume_Helianthus_1.JPG",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#b08d3e",
+        "backgroundColor": "#fbf7ee",
+        "fontFamily": "'Playfair Display', serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Renoncule_%C3%A2cre_%28Ranunculus_acris%29.jpg/1920px-Renoncule_%C3%A2cre_%28Ranunculus_acris%29.jpg",
+        "accentImage": "",
+        "accentEmoji": "✨"
+      }
+    },
+    {
+      "id": "darya-aleksandr",
+      "name": "Дарья и Александр",
+      "salutation": "Дорогие",
+      "message": "Приглашаем вас разделить с нами радость нашего самого счастливого дня!",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hydrangea_macrophylla_in_front_of_Seongsan_Ilchulbong_volcano_at_blue_hour_in_Jeju_Island_South_Korea.jpg/960px-Hydrangea_macrophylla_in_front_of_Seongsan_Ilchulbong_volcano_at_blue_hour_in_Jeju_Island_South_Korea.jpg",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#5b7d9e",
+        "backgroundColor": "#eef4f9",
+        "fontFamily": "'Montserrat', sans-serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bonn%2C_Heerstra%C3%9Fe_--_2018_--_2243.jpg/1920px-Bonn%2C_Heerstra%C3%9Fe_--_2018_--_2243.jpg",
+        "accentImage": "",
+        "accentEmoji": "🕊️"
+      }
+    },
+    {
+      "id": "ekaterina-sergey-darya",
+      "name": "Екатерина, Сергей и Дарья",
+      "salutation": "Дорогие",
+      "message": "Без вас наш праздник будет неполным — будем очень рады видеть вас!",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Red_and_white_tulip_at_Myddelton_House%2C_Enfield%2C_London.jpg/960px-Red_and_white_tulip_at_Myddelton_House%2C_Enfield%2C_London.jpg",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#c4704f",
+        "backgroundColor": "#fdf4ef",
+        "fontFamily": "'Lora', serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cerisier_et_p%C3%A9tales_roses_-_2016-05-01.jpg/1920px-Cerisier_et_p%C3%A9tales_roses_-_2016-05-01.jpg",
+        "accentImage": "",
+        "accentEmoji": "🌺"
+      }
+    },
+    {
+      "id": "igor-anna",
+      "name": "Игорь и Анна",
+      "salutation": "Дорогие",
+      "message": "Мы очень рады пригласить вас на наш праздник! Ваше присутствие сделает этот день ещё теплее и счастливее.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dahlia_%27Moonfire%27_006.JPG/960px-Dahlia_%27Moonfire%27_006.JPG",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#8e3b46",
+        "backgroundColor": "#faf0f1",
+        "fontFamily": "'Cormorant Garamond', serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Red_Rose_Flower_IITMandi_Himachal_Aug19_D72_11473.jpg/1920px-Red_Rose_Flower_IITMandi_Himachal_Aug19_D72_11473.jpg",
+        "accentImage": "",
+        "accentEmoji": "🌹"
+      }
+    },
+    {
+      "id": "sergey-ekaterina",
+      "name": "Сергей и Екатерина",
+      "salutation": "Дорогие",
+      "message": "В нашей жизни наступает особенный день, и мы хотим разделить его с самыми близкими — с вами!",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zygopetalum_%27Dunkle_Bl%C3%BCte%27.jpg/960px-Zygopetalum_%27Dunkle_Bl%C3%BCte%27.jpg",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#3f9b94",
+        "backgroundColor": "#eefaf8",
+        "fontFamily": "'Montserrat', sans-serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Rosa_%27Aspirin_Rose%27_%28actm%29_01.jpg/1920px-Rosa_%27Aspirin_Rose%27_%28actm%29_01.jpg",
+        "accentImage": "",
+        "accentEmoji": "💍"
+      }
+    },
+    {
+      "id": "evgeniy-evgeniya",
+      "name": "Евгений и Евгения",
+      "salutation": "Дорогие",
+      "message": "Будем счастливы видеть вас среди наших гостей в самый важный день нашей жизни!",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Five_daisies_%28Bellis_perennis%29.jpg/960px-Five_daisies_%28Bellis_perennis%29.jpg",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#a08664",
+        "backgroundColor": "#faf6f0",
+        "fontFamily": "'Playfair Display', serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Paeonia_rockii_2011_G2.jpg/1920px-Paeonia_rockii_2011_G2.jpg",
+        "accentImage": "",
+        "accentEmoji": "🤍"
+      }
+    },
+    {
+      "id": "olesya-artyom",
+      "name": "Олеся и Артём",
+      "salutation": "Дорогие",
+      "message": "Этот день станет для нас началом новой истории, и мы будем рады написать её первую страницу вместе с вами.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Comestible_rose_in_the_Laquenexy_orchard_garden%2C_Moselle%2C_France_%2801%29.jpg/960px-Comestible_rose_in_the_Laquenexy_orchard_garden%2C_Moselle%2C_France_%2801%29.jpg",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#b4536a",
+        "backgroundColor": "#fdf2f4",
+        "fontFamily": "'Cormorant Garamond', serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Japanese_peony_pivoine_JdP.jpg/1920px-Japanese_peony_pivoine_JdP.jpg",
+        "accentImage": "",
+        "accentEmoji": "🌸"
       }
     }
   ]
