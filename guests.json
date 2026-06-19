@@ -600,6 +600,54 @@
         "accentImage": "",
         "accentEmoji": "🌸"
       }
+    },
+    {
+      "id": "ruslan-olga",
+      "name": "Руслан и Ольга",
+      "salutation": "Дорогие",
+      "message": "Приглашаем вас разделить с нами радость нашего самого счастливого дня!",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lavandula_angustifolia_in_Sedovo_1.jpg/960px-Lavandula_angustifolia_in_Sedovo_1.jpg",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#7c6bb0",
+        "backgroundColor": "#f5f3fb",
+        "fontFamily": "'Playfair Display', serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Apple_blossoms_in_Srinagar%2C_India.jpg/1920px-Apple_blossoms_in_Srinagar%2C_India.jpg",
+        "accentImage": "",
+        "accentEmoji": "🦋"
+      }
+    },
+    {
+      "id": "elizaveta",
+      "name": "Елизавета",
+      "salutation": "Дорогая",
+      "message": "Будем счастливы видеть тебя среди наших гостей в самый важный день нашей жизни!",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cosmos_bipinnatus_Bl%C3%BCte-20230819-RM-123333.jpg/960px-Cosmos_bipinnatus_Bl%C3%BCte-20230819-RM-123333.jpg",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#5e8b6a",
+        "backgroundColor": "#f1f7f2",
+        "fontFamily": "'Lora', serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paeonia_rockii_2011_G1.jpg/1920px-Paeonia_rockii_2011_G1.jpg",
+        "accentImage": "",
+        "accentEmoji": "🌿"
+      }
+    },
+    {
+      "id": "maksim-natalya",
+      "name": "Максим и Наталья",
+      "salutation": "Дорогие",
+      "message": "Без вас наш праздник будет неполным — будем очень рады видеть вас!",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Slate_Run_-_Sunflower_2.jpg/960px-Slate_Run_-_Sunflower_2.jpg",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#b08d3e",
+        "backgroundColor": "#fbf7ee",
+        "fontFamily": "'Playfair Display', serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/5/57/Renoncule_rampante_%28Ranunculus_repens%29.jpg",
+        "accentImage": "",
+        "accentEmoji": "✨"
+      }
     }
   ]
 }
