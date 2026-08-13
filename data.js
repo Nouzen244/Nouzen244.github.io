@@ -650,6 +650,54 @@ window.GUESTS_DATA = {
         "accentImage": "",
         "accentEmoji": "✨"
       }
+    },
+    {
+      "id": "olga",
+      "name": "Ольга",
+      "salutation": "Дорогая",
+      "message": "Мы очень рады пригласить тебя на наш праздник! Твоё присутствие сделает этот день ещё теплее и счастливее.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wood_Forget-Me-Not_%28Myosotis_sylvatica%29_-_Guelph%2C_Ontario_2017-06-03.jpg/960px-Wood_Forget-Me-Not_%28Myosotis_sylvatica%29_-_Guelph%2C_Ontario_2017-06-03.jpg",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#5b7d9e",
+        "backgroundColor": "#eef4f9",
+        "fontFamily": "'Montserrat', sans-serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hydrangea_%27Endless_Summer_Blue%27_Capel_Manor_College_Gardens_Enfield_London_England.jpg/1920px-Hydrangea_%27Endless_Summer_Blue%27_Capel_Manor_College_Gardens_Enfield_London_England.jpg",
+        "accentImage": "",
+        "accentEmoji": "🕊️"
+      }
+    },
+    {
+      "id": "oleg",
+      "name": "Олег",
+      "salutation": "Дорогой",
+      "message": "В нашей жизни наступает особенный день, и мы хотим разделить его с самыми близкими — с тобой!",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Yellow-orange_dahlia_cultivar_-_2020-07-14_-_Andy_Mabbett_-_01.jpg/960px-Yellow-orange_dahlia_cultivar_-_2020-07-14_-_Andy_Mabbett_-_01.jpg",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#c4704f",
+        "backgroundColor": "#fdf4ef",
+        "fontFamily": "'Lora', serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hibiscus_rosa-sinensis_%27Mandarin_Wind%27_Flower_2.JPG/1920px-Hibiscus_rosa-sinensis_%27Mandarin_Wind%27_Flower_2.JPG",
+        "accentImage": "",
+        "accentEmoji": "🌺"
+      }
+    },
+    {
+      "id": "sergey-elena",
+      "name": "Сергей и Елена",
+      "salutation": "Дорогие",
+      "message": "Будем счастливы видеть вас среди наших гостей в самый важный день нашей жизни!",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_Rose_%28261283911%29.jpeg/960px-Red_Rose_%28261283911%29.jpeg",
+      "rsvpLink": "https://docs.google.com/forms/d/e/1FAIpQLSeTVk1ppNp8KWXvnrp5-kIUYbH4NQJMJYBkBEB3Fhr74BVCgA/viewform",
+      "theme": {
+        "primaryColor": "#8e3b46",
+        "backgroundColor": "#faf0f1",
+        "fontFamily": "'Cormorant Garamond', serif",
+        "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Paeonia_%27Red_Emperor%27_%287330044482%29.jpg/1920px-Paeonia_%27Red_Emperor%27_%287330044482%29.jpg",
+        "accentImage": "",
+        "accentEmoji": "🌹"
+      }
     }
   ]
 }
